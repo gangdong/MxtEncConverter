@@ -1,0 +1,18 @@
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\bin\Debug\FileConverter.exe.config
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\bin\Debug\FileConverter.exe
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\bin\Debug\FileConverter.pdb
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\Debug\FileConverter.csprojResolveAssemblyReference.cache
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\Debug\FileConverter.Form1.resources
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\Debug\FileConverter.Properties.Resources.resources
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.GenerateResource.Cache
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\Debug\FileConverter.exe
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\Debug\FileConverter.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\FileConverter\FileConverter\obj\Debug\FileConverter.Form1.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\FileConverter\FileConverter\obj\Debug\FileConverter.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\FileConverter\FileConverter\obj\Debug\FileConverter.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\FileConverter\FileConverter\bin\Debug\MXT ENC2Array Converter.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\FileConverter\FileConverter\bin\Debug\MXT ENC2Array Converter.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\FileConverter\FileConverter\bin\Debug\MXT ENC2Array Converter.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\FileConverter\FileConverter\obj\Debug\MXT ENC2Array Converter.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\FileConverter\FileConverter\obj\Debug\MXT ENC2Array Converter.pdb

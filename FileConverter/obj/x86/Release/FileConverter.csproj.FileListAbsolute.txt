@@ -1,0 +1,9 @@
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\bin\x86\Release\FileConverter.exe.config
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\bin\x86\Release\FileConverter.exe
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\bin\x86\Release\FileConverter.pdb
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\x86\Release\FileConverter.csprojResolveAssemblyReference.cache
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\x86\Release\FileConverter.Form1.resources
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\x86\Release\FileConverter.Properties.Resources.resources
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\x86\Release\FileConverter.csproj.GenerateResource.Cache
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\x86\Release\FileConverter.exe
+E:\Work\TOUCH.AE.CN\Touch Project\Tools Development\Production Tool - SW\Morven Liu Experiments\FileConverter\FileConverter\obj\x86\Release\FileConverter.pdb
