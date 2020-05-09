@@ -1,5 +1,5 @@
 # MxtEncConverter
-----
+
 
 ## Introduction
 A tiny tool to translate the ATMEL maXTouch series touchscreen controller firmware file (specified .enc format) into a C header file.
