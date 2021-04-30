@@ -1,7 +1,5 @@
 # MxtEncConverter
 
-
-
 ## Introduction
 A tiny tool to translate the ATMEL maXTouch series touchscreen controller firmware file (specified .enc format) into a C header file.
 
@@ -32,3 +30,5 @@ C# 语言开发。
 3. 点击 “open” 按钮并选择需要转换的固件文件
 4. 固件文件本身并不自带版本信息，如family ID,Variant ID, version等，如果需要可以将这些信息加入输出的文件中，只需要将这些信息填入相应的文本框即可。
 5. 点击 “convert”按钮开始进行转换，这会需要一些时间。转换过程中转换的数据会实时显示在文本框内。转换完成后点击 “Save” 选择要存放的路径。保存生成的头文件。
+
+![screenshot](https://cdn.jsdelivr.net/gh/gangdong/MxtEncConverter@master/screenshot.PNG)
